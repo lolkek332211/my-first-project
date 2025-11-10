@@ -1,0 +1,17 @@
+# Создаем простой файл
+echo "print('Hello, GitHub!')" > hello.py
+
+# Добавляем в индекс и коммитим
+git add .
+git commit -m "Initial commit: add hello.py"
+
+# Отправляем на GitHub
+git push origin main# Создаем простой файл
+echo "print('Hello, GitHub!')" > hello.py
+
+# Добавляем в индекс и коммитим
+git add .
+git commit -m "Initial commit: add hello.py"
+
+# Отправляем на GitHub
+git push origin main
